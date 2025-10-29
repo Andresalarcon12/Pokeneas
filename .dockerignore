@@ -1,0 +1,14 @@
+# Entornos / cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# VCS / IDE
+.git/
+.gitignore
+.vscode/
+
+# Otros
+.env
+.DS_Store
